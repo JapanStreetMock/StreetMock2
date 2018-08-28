@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour {
 
+    private GameObject yasuakiSphere;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -25,6 +27,11 @@ public class TestScript : MonoBehaviour {
     private void yasuakiweiwei()
     {
         Debug.Log("weiwei");
+    }
+
+    private void nothingNameTest()
+    {
+        Debug.Log("0点です");
     }
 
 }
