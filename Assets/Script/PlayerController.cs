@@ -21,4 +21,12 @@ public class PlayerController : MonoBehaviour {
     }
 
 
+    private void kiraTest()
+    {
+        float testA = 0f;
+        float testB = 1f;
+        testA = testB;
+        testB = testA;
     }
+    
+}
