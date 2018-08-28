@@ -13,4 +13,11 @@ public class TestScript : MonoBehaviour {
 	void Update () {
 		
 	}
+
+
+    void mergeTester()
+    {
+
+    }
+
 }
