@@ -22,4 +22,9 @@ public class TestScript : MonoBehaviour {
         ///どやあー
     }
 
+    private void yasuakiweiwei()
+    {
+        Debug.Log("weiwei");
+    }
+
 }
