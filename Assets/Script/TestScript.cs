@@ -22,4 +22,17 @@ public class TestScript : MonoBehaviour {
         ///どやあー
     }
 
+    private void missMissmith()
+    {
+        //何度も失敗してしまう悲しみ
+        Debug.Log("kansimi");
+
+    }
+
+    private void sokkouKaeru()
+    {
+
+        Debug.Log("aaaaaa");
+    }
+
 }
