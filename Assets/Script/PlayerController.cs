@@ -6,7 +6,8 @@ public class PlayerController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+
+
 	}
 	
 	// Update is called once per frame
@@ -14,6 +15,7 @@ public class PlayerController : MonoBehaviour {
 		
 	}
 
+<<<<<<< HEAD
     void CommitTester()
     {
 
@@ -22,3 +24,14 @@ public class PlayerController : MonoBehaviour {
 
 
     }
+=======
+
+    private void kira()
+    {
+        float testA = 1f;
+        float testB = 2f;
+        testA = testB;
+        testB = testA;
+    }
+}
+>>>>>>> kiraTest
