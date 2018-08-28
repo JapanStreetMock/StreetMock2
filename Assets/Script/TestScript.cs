@@ -17,7 +17,9 @@ public class TestScript : MonoBehaviour {
 
     void mergeTester()
     {
-
+        ///コメント追加したで
+        ///いえーい
+        ///どやあー
     }
 
 }
