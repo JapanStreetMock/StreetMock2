@@ -13,4 +13,9 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    private void test()
+    {
+        Debug.Log("TEST");
+    }
 }
