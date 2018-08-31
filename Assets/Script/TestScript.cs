@@ -25,4 +25,16 @@ public class TestScript : MonoBehaviour {
         Debug.Log("weiwei");
     }
 
+    private void testWEIWEI()
+    {
+        int a = 0;
+        a = 1;
+        a = 2;
+    }
+
+    private void prinseceConnect()
+    {
+        Debug.Log("男サヴァも育てろ");
+    }
+
 }
