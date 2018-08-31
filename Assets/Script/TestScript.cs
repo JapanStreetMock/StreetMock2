@@ -36,6 +36,14 @@ public class TestScript : MonoBehaviour {
 
 
     }
+
+    private void perfectHuman()
+    {
+        Debug.Log("Perfect Human");
+    }
+
+
+
     private void missMissmith()
     {
         //何度も失敗してしまう悲しみ
