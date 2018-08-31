@@ -51,6 +51,10 @@ public class TestScript : MonoBehaviour {
     }
 
 
+    private void OreTensai()
+    {
+        Debug.Log("きみアホ");
+    }
 
     private void conflictTest()
     {
