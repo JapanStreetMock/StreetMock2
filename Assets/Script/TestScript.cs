@@ -63,8 +63,6 @@ public class TestScript : MonoBehaviour {
     void voidReturn()
     {
         return;
-    }
-
     private void testWEIWEI()
     {
         int a = 0;
@@ -76,11 +74,5 @@ public class TestScript : MonoBehaviour {
     {
         Debug.Log("男サヴァも育てろ");
     }
-
-    private void yasuakiConflict()
-    {
-        Debug.Log("エラーが出るようなコミット早めてください");
-    }
-
 
 }
