@@ -24,11 +24,6 @@ public class TestScript : MonoBehaviour {
         ///どやあー
     }
 
-    private void FGOisGOD()
-    {
-        Debug.Log("種火集会");
-    }
-
 
     private void yasuakiweiwei()
     {
@@ -53,11 +48,6 @@ public class TestScript : MonoBehaviour {
 
         Debug.Log("aaaaaa");
      //> test_branch
-    }
-
-    private void prinseceConnect()
-    {
-        Debug.Log("まだまだキャラ育成中");
     }
 
 }
