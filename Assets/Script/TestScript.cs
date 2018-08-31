@@ -77,10 +77,13 @@ public class TestScript : MonoBehaviour {
         Debug.Log("男サヴァも育てろ");
     }
 
+<<<<<<< HEAD
     private void yasuakiConflict()
     {
         Debug.Log("エラーが出るようなコミット早めてください");
     }
 
+=======
+>>>>>>> 132e21ed9b06251085d9f2466e5a048b48d04b21
 
 }
