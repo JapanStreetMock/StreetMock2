@@ -65,4 +65,14 @@ public class TestScript : MonoBehaviour {
         return;
     }
 
+    void voidVovoid()
+    {
+
+        Debug.Log("マージのときに衝突します");
+    }
+
+    
+
+
+
 }
