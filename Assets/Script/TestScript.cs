@@ -75,4 +75,14 @@ public class TestScript : MonoBehaviour {
         Debug.Log("男サヴァも育てろ");
     }
 
+    void voidVovoid()
+    {
+
+        Debug.Log("マージのときに衝突します");
+    }
+
+    
+
+
+
 }
