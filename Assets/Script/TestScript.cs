@@ -50,4 +50,19 @@ public class TestScript : MonoBehaviour {
      //> test_branch
     }
 
+
+
+    private void conflictTest()
+    {
+
+
+        Debug.Log("衝突してほしい");
+    }
+
+
+    void voidReturn()
+    {
+        return;
+    }
+
 }
