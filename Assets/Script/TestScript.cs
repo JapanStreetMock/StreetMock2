@@ -88,7 +88,13 @@ public class TestScript : MonoBehaviour {
         Debug.Log("マージのときに衝突します");
     }
 
-    
+    void voidVovoidVovovoid()
+    {
+
+        Debug.Log("可能な限り衝突してほしい");
+
+
+    }
 
 
 }
