@@ -24,7 +24,7 @@ public class TestScript : MonoBehaviour {
         ///どやあー
     }
 
-<<<<<<< HEAD
+
     private void yasuakiweiwei()
     {
         Debug.Log("weiwei");
@@ -33,7 +33,9 @@ public class TestScript : MonoBehaviour {
     private void nothingNameTest()
     {
         Debug.Log("0点です");
-=======
+
+
+    }
     private void missMissmith()
     {
         //何度も失敗してしまう悲しみ
@@ -45,7 +47,7 @@ public class TestScript : MonoBehaviour {
     {
 
         Debug.Log("aaaaaa");
->>>>>>> test_branch
+     //> test_branch
     }
 
 }
